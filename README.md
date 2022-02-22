@@ -1,2 +1,2 @@
 # alarmclock
- Alarmclock with Python
+ ## Simple alarm-clock with Python
